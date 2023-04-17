@@ -16,3 +16,19 @@ def prime_finder(n):
             # Prime number
             lst.append(i)
     return lst
+
+# print(prime_finder(2))
+# [2]
+# print(prime_finder(3))
+# [2, 3]
+# print(prime_finder(5))
+# [2, 3, 5]
+# print(prime_finder(7))
+# [2, 3, 5, 7]
+# print(prime_finder(8))
+# [2, 3, 5, 7]
+# print(prime_finder(9))
+# [2, 3, 5, 7]
+# print(prime_finder(11))
+# [2, 3, 5, 7, 11]
+
